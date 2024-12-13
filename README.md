@@ -39,3 +39,14 @@ Project Goals
 Aesthetic Appeal: The purple gradient theme ensures the app looks visually captivating.
 Usability: Prioritizes ease of access for music controls and navigation menus.
 Responsiveness: Adapts well across various screen sizes for a consistent user experience.
+
+
+
+![music player page 1](https://github.com/user-attachments/assets/93ae69c8-aa09-409d-b342-9692a12a38d7)
+
+
+![music player](https://github.com/user-attachments/assets/e9d40562-d434-4dfd-ab8a-267ba2b642a6)
+
+
+
+
